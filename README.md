@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @ItsLachie
 - 👀 I’m interested in Sports and Games
-- 🌱 I’m currently learning Python at UTAS
+- 🌱 I’m currently learning Python and Java at UTAS
 - 💞️ I’m looking to collaborate on Something
 - 📫 How to reach me IDK
 - 😄 Pronouns: HIM
