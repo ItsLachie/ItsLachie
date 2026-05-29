@@ -4,11 +4,10 @@
 
 - 👋 Hi, I’m @ItsLachie
 - 👀 I’m interested in Sports and Games
-- 🌱 I’m currently learning Python and Java at UTAS
-- 💞️ I’m looking to collaborate on Something
+- 🌱 I’m currently studying a bachelor of ICT at UTAS
 - 📫 How to reach me IDK
 - 😄 Pronouns: HIM
-- ⚡ Fun fact: Im a 21.8 handicap in golf
+- ⚡ Fun fact: Im a 13.8 handicap in golf
 
 <!---
 ItsLachie/ItsLachie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
